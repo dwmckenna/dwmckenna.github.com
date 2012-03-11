@@ -4,5 +4,5 @@ $(function() {
 	//create a commend just start the line with //
 
 	//lets start with something simple.
-	alert('hi');
+	$('body').css('background-color', 'pink');
 });
